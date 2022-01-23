@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tayyibm21/E-commerce-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tayyibm21/E-commerce-backend/issues"
+  },
+  "homepage": "https://github.com/Tayyibm21/E-commerce-backend#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node.js": "^0.0.1-security",
+    "sequelize": "^6.14.0"
+  }
+}
